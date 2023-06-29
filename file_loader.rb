@@ -66,5 +66,3 @@ def getNumSelec
     sel.to_i
     return sel
 end
-
-p "test"
